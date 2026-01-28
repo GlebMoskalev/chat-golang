@@ -29,7 +29,7 @@ REST API для управления чатами и сообщениями на
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
+git clone https://github.com/GlebMoskalev/chat-golang
 cd chat-golang
 ```
 
